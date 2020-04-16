@@ -1,0 +1,11 @@
+
+public class MainClass {
+	
+	public static void main(String[] args)
+	{
+		MyFirstClass obj=new MyFirstClass();
+		obj.setNum(36);
+		System.out.println("My Number is : " + obj.getNum());
+	}
+
+}

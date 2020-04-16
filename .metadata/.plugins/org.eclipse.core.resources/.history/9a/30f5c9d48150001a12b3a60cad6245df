@@ -1,0 +1,13 @@
+package Testing4;
+
+import Testing1.Logesh;
+import Testing2.Logesh1;
+
+public class Logesh3 {
+
+	public static void main(String[] args) {
+		Logesh ref=new Logesh1();
+			ref.name();
+			ref.Internet();
+	}
+}

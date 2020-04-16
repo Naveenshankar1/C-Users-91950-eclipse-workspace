@@ -1,0 +1,19 @@
+
+public class MainClass {
+	
+	public static void main(String[] args)
+	{
+		MyGetSetClass obj=new MyGetSetClass();
+		obj.setNum(36);
+		System.out.println("My Number is : " + obj.getNum());
+		
+		InterFaceExtract objInter=new InterFaceExtract();
+		objInter.NameDetails();
+		objInter.Address(str);
+		objInter.DoorNum();
+		
+		
+			
+	}
+
+}

@@ -1,0 +1,8 @@
+import java.lang.reflect.Array;
+
+public class LoopingConcept {
+	Array arr[5]=new Array[];
+	arr[]= {10,20,30,30,40,50};
+	
+	
+}

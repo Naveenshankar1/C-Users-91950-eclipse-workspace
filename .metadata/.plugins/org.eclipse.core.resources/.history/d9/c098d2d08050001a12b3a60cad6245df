@@ -1,0 +1,5 @@
+package Testing2;
+
+public class Logesh1 extends Logesh {
+
+}

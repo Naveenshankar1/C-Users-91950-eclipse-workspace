@@ -1,0 +1,15 @@
+
+public class MethodoverloadingData {
+	private String custName;
+
+	public MethodoverloadingData() {
+	}
+
+	public String getCustName() {
+		return custName;
+	}
+
+	public void setCustName(String custName) {
+		this.custName = custName;
+	}
+}
